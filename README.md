@@ -1,23 +1,17 @@
 # Neon Clone
 
 
-- **`*`**: React Native
-- **`*`**: Styled-Components
-
-
-<div style="display:flex">
-<img src="imageRedme/Screenshot_20200619-173046039.jpg" style="margin-right:3px" width="400px">
-<img src="imageRedme/Screenshot_20200619-173038229.jpg" width="400px">
+- **`*`**: Html
+- **`*`**: Css
+- **`*`**: JavaScript
 
 
 
-<div style="display:flex">
-<img src="imageRedme/Screenshot_20200619-173049582.jpg"  style="margin-right:3px" width="400px">
-<img src="imageRedme/Screenshot_20200619-173054293.jpg" width="400px">
+<img src="gifs/ezgif.com-video-to-gif.gif" style="margin-right:3px" width="600px">
 
-</div>
+<img src="gifs/ezgif.com-video-to-gif (1).gif" width="600px">
 
-<img src="imageRedme/Screenshot_20200619-173100727.jpg" width="400px">
+
 
 
 
